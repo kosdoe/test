@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/kosdoe/test/issues"
   },
-  "homepage": "https://github.com/kosdoe/test#readme"
+  "homepage": "https://github.com/kosdoe/test#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.3"
+  }
 }
